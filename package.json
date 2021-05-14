@@ -29,12 +29,12 @@
     "create-react-app",
     "mern-stack"
   ],
-  "author": "shubhambattoo",
+  "author": "isuru,ravindu,isanka",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/shubhambattoo/shopping-cart/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/shubhambattoo/shopping-cart#readme",
+  "homepage": "shopping-cart#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
